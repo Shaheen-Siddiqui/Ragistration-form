@@ -1,0 +1,64 @@
+header{height: 170px;
+	width:1390px;
+	background-color: blue;
+	font-size: 50px; }
+
+
+
+ul li{font-size: 30px;
+	display: inline;
+	padding: 1px;
+	margin-left: 90px;
+    text-decoration: none;
+
+}
+
+.pic{height: 100%;
+	width:100%;
+background-color: lightblue;
+ //background-size: cover;
+ text-decoration: underline;
+ text-align: center;
+ font-size: 30px;
+ font-family: 30px;
+ padding-top: 30px;
+text-decoration: none;
+}
+
+table{ position: relative;
+	left: 35%;
+	
+     
+
+ }
+
+.yulu{height: 40px;
+	widows: 30px;
+	background-color:white;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
